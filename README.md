@@ -6,10 +6,6 @@
 <meta name='eaglercraft, eaglercraftx, eagler, eaglercraftx server, eaglercraft server' content='HTML, JavaScript, Shell, Batchfile'>
 
 # bouldercraft
-<br>
-<br>
-<br>
-
 `cd server && sudo java -jar server.jar`
 <br>
 `cd server && sudo java -jar bungee.jar`
